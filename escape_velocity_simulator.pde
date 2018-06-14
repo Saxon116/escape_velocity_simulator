@@ -1,3 +1,19 @@
+/* 
+
+Programming: Nicolas Kellum
+Design: Kristian Suzara
+Project Coordinator: Audrey Gunawan 
+Team: 4 Horsemen of the Physicspocalypse 
+
+
+This program was created for a final physics project
+during Spring quarter of 2018. (submitted 6/14/18)
+Using Euler's method, this program simulates how far
+a rocket goes depending on it's initial velocity.
+
+
+*/
+
 float G = 6.67*(pow(10, -11));
 float earthMass = 5.972*pow(10, 24);
 float earthRadius = 6371000;
